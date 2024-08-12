@@ -16,7 +16,7 @@ You can import our environment using conda:
 conda env create -f MDSC.yml -n MDSC
 ```
 ## Dataset
-Download __PACS__ and __OfficeHome__ datasets used in our paper from:  
+Download datasets used in our paper from:  
 [COIL-20](http://www.cs.columbia.edu/CAVE/software/softlib/coil-20.php)  
 [USPS](https://paperswithcode.com/dataset/usps)  
 [EMNIST](https://yann.lecun.com/exdb/mnist/)  

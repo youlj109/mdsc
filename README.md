@@ -2,7 +2,7 @@
 __This repo is officical PyTorch implement of 'Online Unsupervised Feature Selection on Data Streams via Manifold and Discriminative Structure Consistency'  by Linjing You#, Yaming Huang#, Jiabao Lu, Yaozu Liu, Zhiyi Yang, Xiayuan Huang*.__  
 ## Contributors
 
-- [Yaming Huang](https://github.com/jaber628) - Developer
+- [Yaming Huang](https://github.com/BigBadpigman) - Developer
 - [Linjing You](https://github.com/youlj109) - Designer
 
 

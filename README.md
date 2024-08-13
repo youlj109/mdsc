@@ -25,7 +25,7 @@ conda env create -f MDSC.yml -n MDSC
 Download datasets used in our paper from:  
 [COIL-20](http://www.cs.columbia.edu/CAVE/software/softlib/coil-20.php)  
 [USPS](https://paperswithcode.com/dataset/usps)  
-[EMNIST](https://yann.lecun.com/exdb/mnist/)  
+[EMNIST](https://www.nist.gov/itl/products-and-services/emnist-dataset)
 [ISOLET](https://archive.ics.uci.edu/dataset/54/isolet)  
 [DrivFace](https://archive.ics.uci.edu/dataset/378/drivface)  
 [Acoustic](https://www.archive.ics.uci.edu/dataset/406/anuran+calls+mfccs)  

@@ -37,7 +37,7 @@ data = scipy.io.loadmat('example.mat')
 Replace `example.mat` with your data.
 ```
 cd code/
-python train.py --m 10 \
+python MDSC.py --m 10 \
                 --nanpta1 1 \
                 --nanpta2 1 \
                 --nanpta3 1 \
